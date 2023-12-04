@@ -30,7 +30,7 @@ This Python script utilizes Selenium to interact with a cookie-clicker game in a
 ## Usage
 
 1. Run the script:
-  `python classic_cookie_clicker.py`
+  `python cookie_game.py`
 2. Provide the URL of the cookie-clicker game when prompted.
 3. Watch as the script automates clicking and purchasing upgrades.
 
